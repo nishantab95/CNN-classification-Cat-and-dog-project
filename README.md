@@ -50,8 +50,6 @@ CNNs are highly effective for image classification because they automatically ex
 - Accuracy
 - Precision
 - Recall
-- Confusion Matrix
-- ROC-AUC (optional)
 
 ---
 
@@ -66,7 +64,6 @@ CNNs are highly effective for image classification because they automatically ex
 - Data Augmentation
 - Dropout Regularization
 - Early Stopping
-- Transfer Learning (MobileNet / ResNet)
 
 ---
 
